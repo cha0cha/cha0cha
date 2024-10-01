@@ -25,9 +25,12 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> 
-      ![cha0cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha0cha&theme=merko&show_icons=true)
-      ![cha0cha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/api?username=cha0cha&theme=merko&show_icons=true)
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        
+  
+![cha0cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha0cha&theme=merko&show_icons=true)
 
-    </div>
+![cha0cha's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/api?username=cha0cha&theme=merko&show_icons=true)
+
+
     
