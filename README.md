@@ -4,12 +4,10 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Stats ✨</h3>
+<h3 align="center">🗒️ My State 🗒️</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cha0cha&layout=compact&theme=panda" width="400" height="200" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cha0cha&theme=panda&show_icons=true" width="600" height="200" />
+   <img src="https://github-readme-stats.vercel.app/api?username=cha0cha&theme=panda&show_icons=true" width="500" height="200" />
 </div>
 
 <br>
