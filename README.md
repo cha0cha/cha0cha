@@ -6,8 +6,8 @@
 <!--내용 부분-->
 <h3 align="center">🗒️ My State 🗒️</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cha0cha&layout=compact&theme=chartreuse-dark" width="400" height="200" />
-   <img src="https://github-readme-stats.vercel.app/api?username=cha0cha&theme=chartreuse-dark&show_icons=true" width="500" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cha0cha&layout=compact&theme=chartreuse-dark" width="300" height="200" />
+   <img src="https://github-readme-stats.vercel.app/api?username=cha0cha&theme=chartreuse-dark&show_icons=true" width="400" height="200" />
 </div>
 
 <br>
